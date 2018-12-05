@@ -1,4 +1,4 @@
-#Drone
+
 The program was made using Visual Studio and the OpenGL Library.
 
 Once the program is running, you can click on F1 to print the controls in the console. You can also find them below.
